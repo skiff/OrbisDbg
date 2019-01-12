@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OrbisDbg", "OrbisDbg\OrbisDbg.vcxproj", "{A647C030-919D-4789-9DFB-DFF62D4DBC63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A647C030-919D-4789-9DFB-DFF62D4DBC63}.Debug|x64.ActiveCfg = Debug|x64
+		{A647C030-919D-4789-9DFB-DFF62D4DBC63}.Debug|x64.Build.0 = Debug|x64
+		{A647C030-919D-4789-9DFB-DFF62D4DBC63}.Debug|x86.ActiveCfg = Debug|Win32
+		{A647C030-919D-4789-9DFB-DFF62D4DBC63}.Debug|x86.Build.0 = Debug|Win32
+		{A647C030-919D-4789-9DFB-DFF62D4DBC63}.Release|x64.ActiveCfg = Release|x64
+		{A647C030-919D-4789-9DFB-DFF62D4DBC63}.Release|x64.Build.0 = Release|x64
+		{A647C030-919D-4789-9DFB-DFF62D4DBC63}.Release|x86.ActiveCfg = Release|Win32
+		{A647C030-919D-4789-9DFB-DFF62D4DBC63}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DF512EA-0969-444A-938E-B58D7A7374B9}
+	EndGlobalSection
+EndGlobal
