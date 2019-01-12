@@ -14,7 +14,7 @@ This payload only supports PS4 systems on 5.05
 - Kernel Reboot
 
 # How to Use
-1. Download OrbisDbgUI or any other debugger using this payload
+1. Download [OrbisDbgUI](https://github.com/skiffaw/OrbisDbgUI/releases) or any other debugger using this payload
 2. Send OrbisDbg.bin to your console
 3. Launch and attach to game process
 4. Debug
